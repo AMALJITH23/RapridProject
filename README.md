@@ -1,3 +1,12 @@
+ReactJS Project
+
+#how to run
+
+1.clone the project
+2.run command "yarn" insilde the project terminal
+3.packages will be installed after this command.
+4.now run the project with "yarn start" comand
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
